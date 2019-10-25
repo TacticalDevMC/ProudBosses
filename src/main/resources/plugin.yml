@@ -1,0 +1,7 @@
+name: ProudNetworkBosses
+version: ${project.version}
+main: me.tacticaldev.proudnetworkbosses.ProudBosses
+authors: [TacticalDev, ProudNetworkDevelopment]
+description: De ProudNetwork Boss Plugin
+commands:
+  bleadnight:
